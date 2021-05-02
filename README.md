@@ -21,7 +21,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 Open Source Contributor @PublicLabs <code><img height="20" src="https://avatars.githubusercontent.com/u/29445438?v=4"></code>
 
-Open Source Contributor @FOSSAsia <code><img height="20" src="https://avatars.githubusercontent.com/u/4621650?s=200&v=4?v=4"></code>
+Open Source Contributor @FOSSAsia <code><img height="20" src="https://avatars.githubusercontent.com/u/4621650?v=4"></code>
 
 
   <img align="right" alt="GIF" src="https://camo.githubusercontent.com/a50b7f0ee75f66efc9eb9ce2d825baecd891e1e53e75124b51d3a2981a047919/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78565252445650366c71744e514a727a4e372f67697068792e676966" width="500" height="320" />
